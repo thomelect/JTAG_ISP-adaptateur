@@ -1,0 +1,109 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid e63e39d7-6ac0-4ffd-8aa3-1841a4541b55)
+
+  (paper "A4")
+
+  (title_block
+    (title "JTAG_ISP")
+    (date "2022-03-12")
+    (rev "v1.0.0")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 87.122 73.914) (size 45.593 38.1) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid 9c295055-0c2d-41ce-9dd4-77864647be07)
+    (property "Sheet name" "JTAG_ISP-dessus" (id 0) (at 87.122 73.2024 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "JTAG_ISP-dessus.kicad_sch" (id 1) (at 87.122 112.5986 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
+  (sheet (at 134.366 74.041) (size 45.593 38.1) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid acf7ea7b-e041-4dbf-9536-2e9155287236)
+    (property "Sheet name" "JTAG_ISP-dessous" (id 0) (at 134.366 73.3294 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "JTAG_ISP-dessous.kicad_sch" (id 1) (at 134.366 112.7256 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+    (path "/9c295055-0c2d-41ce-9dd4-77864647be07" (page "2"))
+    (path "/acf7ea7b-e041-4dbf-9536-2e9155287236" (page "3"))
+  )
+
+  (symbol_instances
+    (path "/9c295055-0c2d-41ce-9dd4-77864647be07/9a587945-2c13-4f3a-abe5-8be0d4348cd7"
+      (reference "#FLG01") (unit 1) (value "PWR_FLAG") (footprint "")
+    )
+    (path "/acf7ea7b-e041-4dbf-9536-2e9155287236/fc988c61-8c25-498a-b51f-4d1bd4e5cfdd"
+      (reference "#FLG02") (unit 1) (value "PWR_FLAG") (footprint "")
+    )
+    (path "/9c295055-0c2d-41ce-9dd4-77864647be07/64a21367-6f96-463b-95ac-f8789ff4f7e3"
+      (reference "#PWR01") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/9c295055-0c2d-41ce-9dd4-77864647be07/86acfa98-647c-45d4-80af-a08caf6c3b9d"
+      (reference "#PWR02") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9c295055-0c2d-41ce-9dd4-77864647be07/a6fcfdf9-8e28-44a8-ba55-4bf244bbb7d4"
+      (reference "#PWR03") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9c295055-0c2d-41ce-9dd4-77864647be07/9da434be-a59f-45c6-b7fe-50ed7a20b8a9"
+      (reference "#PWR04") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/9c295055-0c2d-41ce-9dd4-77864647be07/6b9b6bd3-b1ee-47ed-b6d9-056fd845fd1a"
+      (reference "#PWR05") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/acf7ea7b-e041-4dbf-9536-2e9155287236/12e22e21-1a90-45c6-8367-2d9d4793a1a6"
+      (reference "#PWR06") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/acf7ea7b-e041-4dbf-9536-2e9155287236/d62cf9bc-224c-4148-b152-86abfe787918"
+      (reference "#PWR07") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/acf7ea7b-e041-4dbf-9536-2e9155287236/61343b4c-2694-48d6-aa9b-776a3336cde4"
+      (reference "#PWR08") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/acf7ea7b-e041-4dbf-9536-2e9155287236/2d4a5060-0330-4f8e-ad39-0f44711d2af5"
+      (reference "#PWR09") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/acf7ea7b-e041-4dbf-9536-2e9155287236/9b1c21d6-1353-4fb6-9323-f943e2468fdd"
+      (reference "#PWR010") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/9c295055-0c2d-41ce-9dd4-77864647be07/8f7de82b-a67a-4854-8369-6777af34673f"
+      (reference "C1") (unit 1) (value "100nF") (footprint "Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm")
+    )
+    (path "/acf7ea7b-e041-4dbf-9536-2e9155287236/a0400c51-1a2c-43ca-baa3-1be2c06aabe3"
+      (reference "C2") (unit 1) (value "100nF") (footprint "Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm")
+    )
+    (path "/9c295055-0c2d-41ce-9dd4-77864647be07/941e1202-3bad-4a0c-b11d-8fcc58a6464f"
+      (reference "J1") (unit 1) (value "Conn_01x08") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical")
+    )
+    (path "/9c295055-0c2d-41ce-9dd4-77864647be07/6fa36bf6-d5ce-4ed2-820e-4046f04e8a6c"
+      (reference "J2") (unit 1) (value "Conn_01x08") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical")
+    )
+    (path "/acf7ea7b-e041-4dbf-9536-2e9155287236/8fbc2c57-cdca-4683-85e8-ae376b7c4062"
+      (reference "J3") (unit 1) (value "Conn_02x03_Counter_Clockwise") (footprint "Connector_PinSocket_2.54mm:PinSocket_2x03_P2.54mm_Vertical")
+    )
+    (path "/acf7ea7b-e041-4dbf-9536-2e9155287236/8ec479cb-401b-4efe-af34-333850250fc6"
+      (reference "J4") (unit 1) (value "Conn_01x08") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical")
+    )
+    (path "/acf7ea7b-e041-4dbf-9536-2e9155287236/71f3a4b9-d630-4a07-967d-20deab0f34a1"
+      (reference "J5") (unit 1) (value "Conn_01x08") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical")
+    )
+    (path "/9c295055-0c2d-41ce-9dd4-77864647be07/27c080b2-2e86-4431-a5ca-a10a43ea5512"
+      (reference "JTAG1") (unit 1) (value "PICkit4") (footprint "THOMAS_library:PicKit4-2")
+    )
+  )
+)
