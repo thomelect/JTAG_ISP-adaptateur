@@ -1,35 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GerberLayoutSet xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <LoadedOutlines>
-    <string>D:\Electronique\Programmation-ETC\KiCad\projetsPerso\JTAG_ISP\JTAG_ISP-HDR\gerber-panelize</string>
-    <string>D:\Electronique\Programmation-ETC\KiCad\projetsPerso\JTAG_ISP\JTAG_ISP-ISP\gerber-panelize</string>
-    <string>D:\Electronique\Programmation-ETC\KiCad\projetsPerso\JTAG_ISP\JTAG_ISP-HDR\gerber-panelize</string>
-    <string>D:\Electronique\Programmation-ETC\KiCad\projetsPerso\JTAG_ISP\JTAG_ISP-ISP\gerber-panelize</string>
+    <string>D:\Electronique\Programmation-ETC\KiCad\projetsPerso\JTAG_ISP-2\JTAG_ISP-HDR\gerber-panelize</string>
+    <string>D:\Electronique\Programmation-ETC\KiCad\projetsPerso\JTAG_ISP-2\JTAG_ISP-ISP\gerber-panelize</string>
   </LoadedOutlines>
   <Instances>
     <GerberInstance>
       <Center>
         <X>0</X>
-        <Y>47</Y>
+        <Y>48</Y>
       </Center>
       <Angle>0</Angle>
-      <GerberPath>D:\Electronique\Programmation-ETC\KiCad\projetsPerso\JTAG_ISP\JTAG_ISP-HDR\gerber-panelize</GerberPath>
+      <GerberPath>D:\Electronique\Programmation-ETC\KiCad\projetsPerso\JTAG_ISP-2\JTAG_ISP-HDR\gerber-panelize</GerberPath>
       <Generated>false</Generated>
     </GerberInstance>
     <GerberInstance>
       <Center>
-        <X>27</X>
-        <Y>47</Y>
+        <X>26</X>
+        <Y>48</Y>
       </Center>
       <Angle>0</Angle>
-      <GerberPath>D:\Electronique\Programmation-ETC\KiCad\projetsPerso\JTAG_ISP\JTAG_ISP-ISP\gerber-panelize</GerberPath>
+      <GerberPath>D:\Electronique\Programmation-ETC\KiCad\projetsPerso\JTAG_ISP-2\JTAG_ISP-ISP\gerber-panelize</GerberPath>
       <Generated>false</Generated>
     </GerberInstance>
   </Instances>
   <Tabs>
     <BreakTab>
       <Center>
-        <X>26</X>
+        <X>25.5</X>
         <Y>41</Y>
       </Center>
       <Angle>0</Angle>
@@ -38,7 +36,7 @@
     </BreakTab>
     <BreakTab>
       <Center>
-        <X>26</X>
+        <X>25.5</X>
         <Y>6</Y>
       </Center>
       <Angle>0</Angle>
@@ -47,7 +45,7 @@
     </BreakTab>
     <BreakTab>
       <Center>
-        <X>26</X>
+        <X>25.5</X>
         <Y>23.5</Y>
       </Center>
       <Angle>0</Angle>

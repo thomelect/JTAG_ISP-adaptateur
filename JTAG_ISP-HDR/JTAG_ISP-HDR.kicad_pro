@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 3.200001,
-          "height": 3.200001,
-          "width": 3.200001
+          "drill": 0.762,
+          "height": 1.524,
+          "width": 1.524
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -55,9 +55,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        "silk_over_copper|163361001|65863580|16853fc1-2802-404c-863d-af24686a53ab|420d34b4-3010-4c28-8f50-a13c623352af"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -348,7 +346,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "JTAG_ISP-HDR.kicad_pro",
+    "filename": "JTAG_ISP.kicad_pro",
     "version": 1
   },
   "net_settings": {
