@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GerberLayoutSet xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <LoadedOutlines>
-    <string>D:\Electronique\Programmation-ETC\KiCad\projetsPerso\JTAG_ISP-2\JTAG_ISP-HDR\gerber-panelize</string>
-    <string>D:\Electronique\Programmation-ETC\KiCad\projetsPerso\JTAG_ISP-2\JTAG_ISP-ISP\gerber-panelize</string>
+    <string>H:\Electronique\Programmation-ETC\KiCad\projetsPerso\JTAG_ISP\JTAG_ISP_v4.0.0\JTAG_ISP-HDR\gerber-panelize</string>
+    <string>H:\Electronique\Programmation-ETC\KiCad\projetsPerso\JTAG_ISP\JTAG_ISP_v4.0.0\JTAG_ISP-ISP\gerber-panelize</string>
   </LoadedOutlines>
   <Instances>
     <GerberInstance>
@@ -11,7 +11,7 @@
         <Y>48</Y>
       </Center>
       <Angle>0</Angle>
-      <GerberPath>D:\Electronique\Programmation-ETC\KiCad\projetsPerso\JTAG_ISP-2\JTAG_ISP-HDR\gerber-panelize</GerberPath>
+      <GerberPath>H:\Electronique\Programmation-ETC\KiCad\projetsPerso\JTAG_ISP\JTAG_ISP_v4.0.0\JTAG_ISP-HDR\gerber-panelize</GerberPath>
       <Generated>false</Generated>
     </GerberInstance>
     <GerberInstance>
@@ -20,7 +20,7 @@
         <Y>48</Y>
       </Center>
       <Angle>0</Angle>
-      <GerberPath>D:\Electronique\Programmation-ETC\KiCad\projetsPerso\JTAG_ISP-2\JTAG_ISP-ISP\gerber-panelize</GerberPath>
+      <GerberPath>H:\Electronique\Programmation-ETC\KiCad\projetsPerso\JTAG_ISP\JTAG_ISP_v4.0.0\JTAG_ISP-ISP\gerber-panelize</GerberPath>
       <Generated>false</Generated>
     </GerberInstance>
   </Instances>
@@ -46,7 +46,7 @@
     <BreakTab>
       <Center>
         <X>25.5</X>
-        <Y>23.5</Y>
+        <Y>23</Y>
       </Center>
       <Angle>0</Angle>
       <Radius>3</Radius>
