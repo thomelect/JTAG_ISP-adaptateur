@@ -6,9 +6,9 @@
 
   (paper "A4")
   (title_block
-    (title "JTAG_ISP")
-    (date "2022-03-12")
-    (rev "v1.0.0")
+    (title "JTAG_ISP / ISP")
+    (date "2022-03-17")
+    (rev "v4.1.0")
   )
 
   (layers
