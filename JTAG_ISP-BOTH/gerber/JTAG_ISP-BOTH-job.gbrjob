@@ -5,17 +5,17 @@
       "Application": "Pcbnew",
       "Version": "(6.0.0)"
     },
-    "CreationDate": "2022-03-17T10:54:16-04:00"
+    "CreationDate": "2022-03-18T23:01:23-04:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "JTAG_ISP-BOTH",
       "GUID": "4a544147-5f49-4535-902d-424f54482e6b",
-      "Revision": "v4.1.0"
+      "Revision": "v4.2.0"
     },
     "Size": {
-      "X": 49.2114,
-      "Y": 46.2866
+      "X": 49.038,
+      "Y": 46.2864
     },
     "LayerNumber": 2,
     "BoardThickness": 1.6,
@@ -27,7 +27,7 @@
       "PadToPad": 0.0,
       "PadToTrack": 0.0,
       "TrackToTrack": 0.2,
-      "MinLineWidth": 0.25,
+      "MinLineWidth": 0.508,
       "TrackToRegion": 0.508,
       "RegionToRegion": 0.508
     }
