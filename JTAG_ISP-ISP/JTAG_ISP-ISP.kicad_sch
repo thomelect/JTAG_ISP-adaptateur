@@ -6,8 +6,8 @@
 
   (title_block
     (title "JTAG_ISP / ISP")
-    (date "2022-03-19")
-    (rev "v5.0.0")
+    (date "2022-03-21")
+    (rev "v5.1.0")
   )
 
   (lib_symbols
