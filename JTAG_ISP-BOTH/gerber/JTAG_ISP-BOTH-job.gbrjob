@@ -5,16 +5,16 @@
       "Application": "Pcbnew",
       "Version": "(6.0.0)"
     },
-    "CreationDate": "2022-03-22T23:09:44-04:00"
+    "CreationDate": "2022-03-28T12:59:54-04:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "JTAG_ISP-BOTH",
       "GUID": "4a544147-5f49-4535-902d-424f54482e6b",
-      "Revision": "v5.1.0"
+      "Revision": "v5.2.0"
     },
     "Size": {
-      "X": 49.428,
+      "X": 48.878,
       "Y": 46.2864
     },
     "LayerNumber": 2,
