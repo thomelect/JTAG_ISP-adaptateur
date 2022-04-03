@@ -7,7 +7,7 @@
   (paper "A5")
   (title_block
     (title "JTAG_ISP / ISP")
-    (date "2022-03-28")
+    (date "2022-04-03")
     (rev "v5.3.0")
   )
 
@@ -91,7 +91,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "C:/Users/thoma/Desktop/gerger/")
+      (outputdirectory "gerber/")
     )
   )
 
