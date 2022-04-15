@@ -6,8 +6,8 @@
 
   (title_block
     (title "JTAG_ISP / HDR")
-    (date "2022-04-03")
-    (rev "v5.3.0")
+    (date "2022-04-15")
+    (rev "v5.4.0")
   )
 
   (lib_symbols

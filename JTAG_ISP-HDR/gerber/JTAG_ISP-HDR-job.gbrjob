@@ -5,13 +5,13 @@
       "Application": "Pcbnew",
       "Version": "(6.0.0)"
     },
-    "CreationDate": "2022-04-03T10:23:08-04:00"
+    "CreationDate": "2022-04-15T02:41:16-04:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "JTAG_ISP-HDR",
       "GUID": "4a544147-5f49-4535-902d-4844522e6b69",
-      "Revision": "v5.3.0"
+      "Revision": "v5.4.0"
     },
     "Size": {
       "X": 23.228,
@@ -27,7 +27,7 @@
       "PadToPad": 0.508,
       "PadToTrack": 0.508,
       "TrackToTrack": 0.508,
-      "MinLineWidth": 0.381,
+      "MinLineWidth": 0.254,
       "TrackToRegion": 0.508,
       "RegionToRegion": 0.508
     }
@@ -42,6 +42,26 @@
       "Path": "JTAG_ISP-HDR-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
+    },
+    {
+      "Path": "JTAG_ISP-HDR-F_Silkscreen.gbr",
+      "FileFunction": "Legend,Top",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "JTAG_ISP-HDR-B_Silkscreen.gbr",
+      "FileFunction": "Legend,Bot",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "JTAG_ISP-HDR-F_Mask.gbr",
+      "FileFunction": "SolderMask,Top",
+      "FilePolarity": "Negative"
+    },
+    {
+      "Path": "JTAG_ISP-HDR-B_Mask.gbr",
+      "FileFunction": "SolderMask,Bot",
+      "FilePolarity": "Negative"
     },
     {
       "Path": "JTAG_ISP-HDR-Edge_Cuts.gbr",
