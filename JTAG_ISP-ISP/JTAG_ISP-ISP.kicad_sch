@@ -5,9 +5,9 @@
   (paper "A5")
 
   (title_block
-    (title "JTAG_ISP / ISP")
+    (title "JTAG_ISP / ISP - SMD")
     (date "2022-04-15")
-    (rev "v5.4.0")
+    (rev "v6.0.0")
   )
 
   (lib_symbols
