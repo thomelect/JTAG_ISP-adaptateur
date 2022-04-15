@@ -5,13 +5,13 @@
       "Application": "Pcbnew",
       "Version": "(6.0.0)"
     },
-    "CreationDate": "2022-04-15T02:41:16-04:00"
+    "CreationDate": "2022-04-15T07:45:15-04:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "JTAG_ISP-HDR",
       "GUID": "4a544147-5f49-4535-902d-4844522e6b69",
-      "Revision": "v5.4.0"
+      "Revision": "v6.0.0"
     },
     "Size": {
       "X": 23.228,
