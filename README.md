@@ -21,14 +21,13 @@
 <summary>Table des matières</summary>
 <ol>
     <li>
-        <a href="#apropos">À Propos</a>
+        <a href="#apropos">À propos</a>
         <ul>
             <li><a href="#creation">Création</a></li>
             <ul>
                 <li><a href="#creation_logiciels">Logiciels</a></li>
                 <li><a href="#creation_fabrication-pcb">Fabrication PCB</a></li>
             </ul>
-            <li><a href="#utilisation">Utilisation</a></li>
         </ul>
     </li>
     <li>
@@ -42,7 +41,8 @@
             <li><a href="#assemblage">Assemblage</a></li>
         </ul>
     </li>
-    <li><a href="#license">License</a></li>
+    <li><a href="#utilisation">Utilisation</a></li>
+    <li><a href="#licence">Licence</a></li>
     <li><a href="#contacts">Contacts</a></li>
     <li><a href="#ressources">Ressources</a></li>
     <li><a href="#modele-readme">Modèle README</a></li>
@@ -215,11 +215,11 @@ Ce produit est utilisé pour programmer un microcontrôleur AVR avec un PICkit4 
 
 ---
 
-<!-- LICENSE -->
+<!-- LICENCE -->
 
-<div id="license"></div>
+<div id="licence"></div>
 
-## License
+## Licence
 
 Copyright 2022 Thomas Desrosiers
 
@@ -245,16 +245,17 @@ limitations under the License.
 
 ## Contacts
 
-<div>
-<a href="https://github.com/thomelect">
-<img src="https://github.com/fluidicon.png" alt="Github" width="25" height="25" style="vertical-align:middle"></a>
+<ul>
+<i><strong>👉 GitHub</strong></i>
+<ul>
+<li>
 <a href="https://github.com/thomelect" style="vertical-align:middle"> - thomelect</a>
-</div>
-<div>
-<a href="https://github.com/thomelect">
-<img src="https://github.com/fluidicon.png" alt="Github" width="25" height="25" style="vertical-align:middle"></a>
-<a href="https://github.com/thomelect" style="vertical-align:middle"> - Projet JTAG-ISP</a>
-</div>
+</li>
+<li>
+<a href="https://github.com/thomelect/JTAG_ISP-adaptateur/" style="vertical-align:middle"> - Projet lumiereGarage</a>
+</li>
+</ul>
+</ul>
 
 <p align="right">(<a href="#top">Haut de la page</a>)</p>
 
@@ -456,23 +457,15 @@ limitations under the License.
 </table>
 </details>
 
-<br>
-
 <ul>
-<div>
-<a href="https://docs.arduino.cc/static/59994142e99a42eea5731bf61b08922b/A000053-full-pinout.pdf">
-<img src="https://cdn.arduino.cc/header-footer/prod/assets/favicon-arduino/apple-touch-icon-1024x1024.png"
-alt="Logo" width="25" height="25" style="vertical-align:middle"></a>
+<li>
 <a href="https://docs.arduino.cc/static/59994142e99a42eea5731bf61b08922b/A000053-full-pinout.pdf"
-style="vertical-align:middle"> - Arduino Micro PinOut (Le PinOut est le même pour tout les Arduino).</a>
-</div>
-<div>
-<a href="https://docs.arduino.cc/static/59994142e99a42eea5731bf61b08922b/A000053-full-pinout.pdf">
-<img src="https://www.microchip.com/favicon.ico" alt="Logo" width="25" height="25"
-style="vertical-align:middle"></a>
-<a href="http://ww1.microchip.com/downloads/en/devicedoc/50002721a.pdf" style="vertical-align:middle"> - PICkit4
+style="vertical-align:middle"> Arduino Micro PinOut (Le PinOut est le même pour tout les Arduino).</a>
+</li>
+<li>
+<a href="http://ww1.microchip.com/downloads/en/devicedoc/50002721a.pdf" style="vertical-align:middle"> PICkit4
 Quick Start Guide.</a>
-</div>
+</li>
 </ul>
 
 <p align="right">(<a href="#top">Haut de la page</a>)</p>
